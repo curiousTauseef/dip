@@ -2,7 +2,7 @@
 
 ### Algorithms
 
-* Seam Carving [1]_ resizing 
+* Seam Carving [1] resizing 
 * Edge detection (Roberts; Sobel; Prewitt)
 * Morphology (dilation; erosion; opening; closing; median)
 * Sharpen (Laplacian; high pass)
@@ -10,7 +10,7 @@
 
 References
 ----------
-.. [1] Shai Avidan and Ariel Shamir. Seam carving for content-aware image resizing. In ACM Transactions on graphics (TOG), volume 26, page 10. ACM, 2007.
+[1] Shai Avidan and Ariel Shamir. Seam carving for content-aware image resizing. In ACM Transactions on graphics (TOG), volume 26, page 10. ACM, 2007.
 
 ### Samples
 
@@ -22,6 +22,9 @@ References
 ##### Seam Carving resizing
 
 Original:
+
 ![Original castle](https://raw.githubusercontent.com/rcorcs/dip/master/img/castle.png)
+
 Resized:
+
 ![Resized castle](https://raw.githubusercontent.com/rcorcs/dip/master/img/carvingCastle.png)
